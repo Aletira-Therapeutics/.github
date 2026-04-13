@@ -1,17 +1,55 @@
-## Aletira Therapeutics
+<div align="center">
 
-**Cell-selective gene therapies powered by alternative splicing.**
+# Aletira Therapeutics
 
-We develop gene therapies that use alternative splicing to control where gene expression occurs. Nature uses alternative splicing to generate distinct proteins from a single gene — this fundamental biological principle underlies cellular diversity across tissues and is the basis for our approach.
+### Cell-selective gene therapies
 
-Our SELEXON™ technology harnesses naturally occurring alternative splicing events to enable cell-type selective gene expression in therapeutic constructs. SELEXONs can be incorporated into any gene therapy platform (e.g., AAV) to ensure that gene products are expressed only in the intended target cells.
+<br>
 
-- **Improving safety** — gene expression excluded from off-target cells
-- **Increasing potency** — combination with strong promoters
-- **Accelerating development** — splicing is conserved and translatable across species
+*We develop gene therapies that use alternative splicing to control where gene expression occurs.*
 
-Our team brings together expertise in drug development, computational biology, AI, and RNA regulation from Johns Hopkins, Scripps Research, and multiple venture-backed biotechs.
+<br>
+
+[aletiratherapeutics.com](https://aletiratherapeutics.com/)
+
+<br>
 
 ---
 
-📍 &nbsp;[aletiratherapeutics.com](https://aletiratherapeutics.com/)
+</div>
+
+<br>
+
+### The problem
+
+Gene therapies deliver therapeutic genes to patients, but current approaches lack precise control over *which cells* express the gene product. Off-target expression limits safety, restricts promoter choice, and complicates translation from animal models to humans.
+
+### Our approach
+
+Nature uses alternative splicing to generate distinct proteins from a single gene. This fundamental biological principle underlies cellular diversity across tissues — and is the basis for Aletira's technology.
+
+**SELEXON™** (selective exon) technology harnesses naturally occurring alternative splicing events to enable cell-type selective gene expression in therapeutic constructs. SELEXONs can be incorporated into any gene therapy platform (e.g., AAV) to ensure gene products are expressed only in the intended target cells.
+
+<table>
+<tr>
+<td width="33%" align="center"><b>Improving safety</b><br><br>Gene expression excluded from off-target cells</td>
+<td width="33%" align="center"><b>Increasing potency</b><br><br>Combination with strong promoters without off-target risk</td>
+<td width="33%" align="center"><b>Accelerating development</b><br><br>Splicing is conserved — translatable across species</td>
+</tr>
+</table>
+
+<br>
+
+### Our team
+
+Aletira brings together drug development, computational biology, AI, and RNA regulation expertise from Johns Hopkins, Scripps Research, UT Southwestern, Indiana University, and multiple venture-backed biotechs.
+
+<br>
+
+<div align="center">
+
+---
+
+📍 Based in the Washington, D.C. area&ensp;·&ensp;[Contact us](https://aletiratherapeutics.com/contact)
+
+</div>
