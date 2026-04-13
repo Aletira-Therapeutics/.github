@@ -24,11 +24,25 @@
 
 Gene therapies deliver therapeutic genes to patients, but current approaches lack precise control over *which cells* express the gene product. Off-target expression limits safety, restricts promoter choice, and complicates translation from animal models to humans.
 
-### Our approach
+### Inspired by nature
 
 Nature uses alternative splicing to generate distinct proteins from a single gene. This fundamental biological principle underlies cellular diversity across tissues — and is the basis for Aletira's technology.
 
+<div align="center">
+<img src="assets/splicing.png" width="700">
+</div>
+
+<br>
+
+### Our approach
+
 **SELEXON™** (selective exon) technology harnesses naturally occurring alternative splicing events to enable cell-type selective gene expression in therapeutic constructs. SELEXONs can be incorporated into any gene therapy platform (e.g., AAV) to ensure gene products are expressed only in the intended target cells.
+
+<div align="center">
+<img src="assets/selexon.png" width="700">
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -50,6 +64,6 @@ Aletira brings together drug development, computational biology, AI, and RNA reg
 
 ---
 
-📍 Based in the Washington, D.C. area&ensp;·&ensp;[Contact us](https://aletiratherapeutics.com/contact)
+📍 Baltimore, MD&ensp;·&ensp;[Contact us](https://aletiratherapeutics.com/contact)
 
 </div>
